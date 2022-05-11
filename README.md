@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sumit
-- 👀 I’m interested in WRF 
-- 🌱 I’m currently learning Atmospheric Science
+- 👀 I’m interested in WRF and ML
+- 🌱 I’m currently learning cloud and precepitation microphysics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
